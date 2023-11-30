@@ -1,0 +1,113 @@
+<mxfile host="app.diagrams.net" modified="2023-11-30T07:24:19.976Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="fU_6Bkgl4y70Gbzhj5kq" version="22.1.5" type="device">
+  <diagram name="Page-1" id="5ftEIOHjmCzG46EIs_vh">
+    <mxGraphModel dx="990" dy="1612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="flZ2xQO-DNxnHKBdHUVd-1" value="Generate Car/Bus Booking Report" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flZ2xQO-DNxnHKBdHUVd-2" value="Generate Car/Bus Report" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flZ2xQO-DNxnHKBdHUVd-3" value="Generate Car/Bus Routes Report" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flZ2xQO-DNxnHKBdHUVd-4" value="Drivers Management" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flZ2xQO-DNxnHKBdHUVd-5" value="Car/Bus Routes Management" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flZ2xQO-DNxnHKBdHUVd-6" value="Passenger Information Management" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flZ2xQO-DNxnHKBdHUVd-7" value="Car/Bus Booking Management" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flZ2xQO-DNxnHKBdHUVd-8" value="Generate Passenger Information Report" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flZ2xQO-DNxnHKBdHUVd-9" value="Check Driver Details" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flZ2xQO-DNxnHKBdHUVd-11" value="Buses&lt;br&gt;Management" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flZ2xQO-DNxnHKBdHUVd-14" value="Swift Ride" style="ellipse;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="365" y="-320" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="flZ2xQO-DNxnHKBdHUVd-18" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="flZ2xQO-DNxnHKBdHUVd-14" target="flZ2xQO-DNxnHKBdHUVd-2">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="470" y="-381" as="sourcePoint" />
+            <mxPoint x="550" y="-381" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flZ2xQO-DNxnHKBdHUVd-19" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.983;exitY=0.317;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="flZ2xQO-DNxnHKBdHUVd-14" target="flZ2xQO-DNxnHKBdHUVd-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="477" y="-292" as="sourcePoint" />
+            <mxPoint x="650" y="-400" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flZ2xQO-DNxnHKBdHUVd-20" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="flZ2xQO-DNxnHKBdHUVd-14">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="487" y="-282" as="sourcePoint" />
+            <mxPoint x="640" y="-250" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flZ2xQO-DNxnHKBdHUVd-21" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="flZ2xQO-DNxnHKBdHUVd-11" target="flZ2xQO-DNxnHKBdHUVd-14">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="210" y="-392" as="sourcePoint" />
+            <mxPoint x="383" y="-500" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flZ2xQO-DNxnHKBdHUVd-22" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.033;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="flZ2xQO-DNxnHKBdHUVd-7" target="flZ2xQO-DNxnHKBdHUVd-14">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="200" y="-300" as="sourcePoint" />
+            <mxPoint x="373" y="-408" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flZ2xQO-DNxnHKBdHUVd-23" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.025;entryY=0.558;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="flZ2xQO-DNxnHKBdHUVd-6" target="flZ2xQO-DNxnHKBdHUVd-14">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="210" y="-220" as="sourcePoint" />
+            <mxPoint x="360" y="-250" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flZ2xQO-DNxnHKBdHUVd-24" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.058;entryY=0.742;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="flZ2xQO-DNxnHKBdHUVd-14">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="200" y="-167" as="sourcePoint" />
+            <mxPoint x="380" y="-240" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flZ2xQO-DNxnHKBdHUVd-25" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.617;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="flZ2xQO-DNxnHKBdHUVd-4" target="flZ2xQO-DNxnHKBdHUVd-14">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="220" y="-82" as="sourcePoint" />
+            <mxPoint x="393" y="-190" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flZ2xQO-DNxnHKBdHUVd-26" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.975;exitY=0.692;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="flZ2xQO-DNxnHKBdHUVd-14" target="flZ2xQO-DNxnHKBdHUVd-3">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="430" y="-170" as="sourcePoint" />
+            <mxPoint x="534" y="-50" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flZ2xQO-DNxnHKBdHUVd-27" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="flZ2xQO-DNxnHKBdHUVd-14" target="flZ2xQO-DNxnHKBdHUVd-9">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="425" y="-92" as="sourcePoint" />
+            <mxPoint x="598" y="-200" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
